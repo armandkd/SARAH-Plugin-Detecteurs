@@ -1,0 +1,8 @@
+{
+  "modules" : { 
+    "detecteurs"  : {
+      "description": "Gestion des détecteurs 433MHz",
+      "version": "1.0"
+    }
+  }
+}
